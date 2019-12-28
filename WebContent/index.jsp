@@ -13,7 +13,7 @@
 <script type="text/javascript" src="js/zingchart.min.js"></script>
 	<script>  
         <%  
-           // --- Create two Java Arrays  
+           // --- Create two Java Arrays ==> 
             ArrayList<String> months = new ArrayList<String>();  
             ArrayList<Integer> users = new ArrayList<Integer>(); 
             int ctl;
